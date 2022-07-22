@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
  </p>
  
-## 💻 Autor<br>
+## 💻 Autor<br>  
 <table>
   <tr>
     <td align="center">
