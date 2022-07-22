@@ -1,0 +1,3 @@
+<a class="btn ml-2" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:511755792,&quot;originating_url&quot;:&quot;https://github.com/MallowDiscord/Profile-Discord/overview_actions/main&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="96e297681ed03ae275079891476fe927a783651d1bed116d8fde3897bc594818" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/MallowDiscord/Profile-Discord/find/main">
+  Go to file
+</a>
