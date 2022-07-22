@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   <tr>
     <td align="center">
       <a href="https://github.com/MallowDiscord">
-        <img src="https://frank-jhonsonn.web.app/assets/images/eu.png" width="100px;" /><br>
+        <img src="https://cdn.discordapp.com/attachments/995930920576090216/999374814143844492/gato-miu-miu2.png" width="100px;" /><br>
         <sub>
           <b>Frank Jhonson</b>
         </sub>
@@ -41,4 +41,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 -----
 
-  <h3 align="center"> Developed by <a href="https://frank-jhonsonn.web.app/">Frank Jhonson</a> ☕</h3>
+  <h3 align="center"> We all need people to give us feedback. This is how we improve <a href="https://pt.wikipedia.org/wiki/Bill_Gates"> - Bill Gates</a></h3>
